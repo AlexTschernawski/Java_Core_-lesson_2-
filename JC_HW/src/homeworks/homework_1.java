@@ -54,7 +54,7 @@ public class homework_1 {
 		}
 		System.out.println("min = " + min);
 		
-		System.out.println("FIRST COMMIT FOR GITHUB");
+		System.out.println("HOME WORK FOR GITHUB");
 	}
 
 }
